@@ -63,7 +63,7 @@ berke1.login("NjkwODgxNjc5MjY2NDE0NjY1.XnX3_A.VJWQGu_gZvzw4Trui3zZRza_FLE");
 berke2.login("NjkwODgyNjA2ODcwNDI5NzI3.XnX45w.XadnNoDqj4NQ4BvSUhNPSvxtfF8");
 berke3.login("NjkwODgzOTQ4ODI1MjgwNTEy.XnX6OA.vG2I3_pwcRIzLHSqu5Xhbu50Vs4");
 berke4.login("NjkwODg2NzcxNTYyNTEyMzg1.XnX8nw.RubQI4mNZwFGJ5VnDHIRg-g4YHo");
-berke5.login("NjkwODkxMzE3MTY0NjM4MjM5.XnYBFg.jsWyCybvy3oCwijijazuXit-67Q);
+berke5.login("NjkwODkxMzE3MTY0NjM4MjM5.XnYBFg.jsWyCybvy3oCwijijazuXit-67Q");
 berke6.login("NjkwODkwMTg1NDI0MjQwNjQx.XnYAAQ.ZFEWoaYO1Y1WJTPwSOOEgkt8eiY");
 berke7.login("");
 berke8.login("");
