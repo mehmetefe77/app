@@ -62,7 +62,7 @@ const berke36 = new Discord.Client();
 berke1.login("NjkwODgxNjc5MjY2NDE0NjY1.XnX3_A.VJWQGu_gZvzw4Trui3zZRza_FLE");
 berke2.login("NjkwODgyNjA2ODcwNDI5NzI3.XnX45w.XadnNoDqj4NQ4BvSUhNPSvxtfF8");
 berke3.login("NjkwODgzOTQ4ODI1MjgwNTEy.XnX6OA.vG2I3_pwcRIzLHSqu5Xhbu50Vs4");
-berke4.login("Njc2MDUwNDE5MTM0MzY1NzA3.XkADmQ.fMudS2BXrsxZ0bSdkhR23AEYFk4");
+berke4.login("NjkwODg2NzcxNTYyNTEyMzg1.XnX8nw.RubQI4mNZwFGJ5VnDHIRg-g4YHo");
 berke5.login("NjAzODUyODM4Mjc1MTIxMTY1.XkBf7Q.OJdhmazgUXTQ5_xhKBtAWzSWE7I");
 berke6.login("Njc2NDQxNTI5Nzk0OTUzMjE2.XkFvZg.SuyHRiNGPUhAVqpMuLSjL1Vry90");
 berke7.login("jc2NDQyMDUxMjUyMDYwMjIx.XkFwng.UN-QuJDGdMkQLGYO_Pfxv6fFnOM");
@@ -95,6 +95,7 @@ berke33.login("Njc3MjMyNzQ2OTkyNzYyOTAx.XkRQvQ.OJPNS01ZJX2RUzpbDSjC0r-BrUI");
 berke34.login("NTg5ODkwMTgzNjkyOTQzMzc5.XQaQrg.xU_ysoKDL1a9C5O2FtJouOKaGZc");
 berke35.login("Njc3MjM0NzQzNDE0MjI2OTc1.XkRSlA.dT51p7NSI8C86FlCF48xCRCDEko");
 berke36.login("NTg5ODYxNDYxNjY5NTc2NzA2.XQZ1mQ.ixocSTt5MVn4xjr62fS8VCZnEPg");
+
 
 
 
