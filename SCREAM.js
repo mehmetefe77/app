@@ -1,10 +1,12 @@
-const express = require("express");
-const { Client, RichEmbed } = require("discord.js");
+const ytdl = require('ytdl-core');
+var opus = require('opusscript');
+const express = require('express');
+const { Client, RichEmbed } = require('discord.js');
 const app = express();
-function sleep(milliseconds) {
+    function sleep(milliseconds) {
   var start = new Date().getTime();
   for (var i = 0; i < 1e7; i++) {
-    if (new Date().getTime() - start > milliseconds) {
+    if ((new Date().getTime() - start) > milliseconds){
       break;
     }
   }
@@ -20,7 +22,6 @@ setInterval(() => {
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const data = new Map();
-
 
 const scream = new Discord.Client();
 const scream1 = new Discord.Client();
@@ -161,6 +162,38 @@ scream10.on("message", async msg => {
   }
 });
 
+scream11.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream12.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream14.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
 /////////////////////////////////////////////
 
 scream1.login("NzU5NDA1NTc0ODczMjg0NjQ4.X29B7w.mFi3LzBtMHugMg_xdf__5Y2iRo8");
