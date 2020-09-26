@@ -1,25 +1,26 @@
-const express = require('express');
-const { Client, RichEmbed } = require('discord.js');
+const express = require("express");
+const { Client, RichEmbed } = require("discord.js");
 const app = express();
-    function sleep(milliseconds) {
+function sleep(milliseconds) {
   var start = new Date().getTime();
   for (var i = 0; i < 1e7; i++) {
-    if ((new Date().getTime() - start) > milliseconds){
+    if (new Date().getTime() - start > milliseconds) {
       break;
     }
   }
 }
-const http = require('http');
+const http = require("http");
 app.get("/", (request, response) => {
-    response.sendStatus(200);
-    });
-    app.listen(process.env.PORT);
-    setInterval(() => {
-    http.get('http://boost-aktif.glitch.me/');
-    }, 3000);
-const Discord = require('discord.js');
+  response.sendStatus(200);
+});
+app.listen(process.env.PORT);
+setInterval(() => {
+  http.get("http://boost-aktif.glitch.me/");
+}, 3000);
+const Discord = require("discord.js");
 const client = new Discord.Client();
 const data = new Map();
+
 
 const scream = new Discord.Client();
 const scream1 = new Discord.Client();
@@ -37,6 +38,130 @@ const scream12 = new Discord.Client();
 const scream13 = new Discord.Client();
 const scream14 = new Discord.Client();
 
+/////////////////////////
+
+scream.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream1.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream2.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream3.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream4.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream5.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream6.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream7.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream8.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream9.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream10.on("message", async msg => {
+  if (msg.content.toLowerCase() === "victory") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+/////////////////////////////////////////////
 
 scream1.login("NzU5NDA1NTc0ODczMjg0NjQ4.X29B7w.mFi3LzBtMHugMg_xdf__5Y2iRo8");
 scream2.login("NzU0ODA1MTcyMjgyMDY0ODk2.X16GVg.BgXHcqaZAu6RhDaKIbiie5xw2p4");
