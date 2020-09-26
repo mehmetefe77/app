@@ -38,6 +38,33 @@ const scream11 = new Discord.Client();
 const scream12 = new Discord.Client();
 const scream13 = new Discord.Client();
 const scream14 = new Discord.Client();
+const scream15 = new Discord.Client();
+const scream16 = new Discord.Client();
+const scream17 = new Discord.Client();
+const scream18 = new Discord.Client();
+const scream19 = new Discord.Client();
+const scream20 = new Discord.Client();
+const scream21 = new Discord.Client();
+const scream22 = new Discord.Client();
+const scream23 = new Discord.Client();
+const scream24 = new Discord.Client();
+const scream25 = new Discord.Client();
+const scream26 = new Discord.Client();
+const scream27 = new Discord.Client();
+const scream28 = new Discord.Client();
+const scream29 = new Discord.Client();
+const scream30 = new Discord.Client();
+const scream31 = new Discord.Client();
+const scream32 = new Discord.Client();
+const scream33 = new Discord.Client();
+const scream34 = new Discord.Client();
+const scream35 = new Discord.Client();
+const scream36 = new Discord.Client();
+const scream37 = new Discord.Client();
+const scream38 = new Discord.Client();
+const scream39 = new Discord.Client();
+const scream40 = new Discord.Client();
+
 
 /////////////////////////
 
@@ -210,3 +237,32 @@ scream11.login("NzU0ODAwNTAzMTA3MzU0Njk1.X16BkQ.ygzOP8qXbK2onNMTDVroAAxzEe8");
 scream12.login("NzU0ODAxNTAxODkyNzcxODUy.X16CVw.X1InbMaZDfX1X65N3HsAQ_tnijI");
 scream13.login("NzU0ODAyNjQ4MDM2NjcxNDg5.X16DVw.VpwMGl3LYZRTskyJOLbA6eyw5-0");
 scream14.login("NzU0ODAzODI5MzM3NDg5NTYw.X16E0Q.ZS7gOADSWreTgU34Fo_ywZIXWYQ");
+scream14.login("");
+scream15.login("");
+scream16.login("");
+scream17.login("");
+scream18.login("");
+scream19.login("");
+scream20.login("");
+scream21.login("");
+scream22.login("");
+scream23.login("");
+scream24.login("");
+scream25.login("");
+scream26.login("");
+scream27.login("");
+scream28.login("");
+scream29.login("");
+scream30.login("");
+scream31.login("");
+scream32.login("");
+scream33.login("");
+scream34.login("");
+scream35.login("");
+scream36.login("");
+scream32.login("");
+scream32.login("");
+scream32.login("");
+
+
+
