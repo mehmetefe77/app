@@ -125,10 +125,10 @@ scream4.on("message", async msg => {
 
 scream5.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
-    const streamOptions = { seek: 0, volume: 50 };
+    const streamOptions = { seek: 0, volume: 150 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
-      const stream = ytdl("https://www.youtube.com/watch?v=B7utOTVKb0E", { filter: "audioonly" });
+      const stream = ytdl("https://www.youtube.com/watch?v=DQKN33lsk-c", { filter: "audioonly" });
       const dispatcher = connection.playStream(stream, streamOptions);
     });
   }
