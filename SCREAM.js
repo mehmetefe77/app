@@ -128,7 +128,7 @@ scream5.on("message", async msg => {
     const streamOptions = { seek: 0, volume: 150 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
-      const stream = ytdl("https://www.youtube.com/watch?v=DQKN33lsk-c", { filter: "audioonly" });
+      const stream = ytdl("", { filter: "audioonly" });
       const dispatcher = connection.playStream(stream, streamOptions);
     });
   }
