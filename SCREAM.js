@@ -353,6 +353,61 @@ scream25.on("message", async msg => {
     });
   }
 });
+
+scream26.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream27.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream28.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream29.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream30.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
 /////////////////////////////////////////////
 
 scream1.login("NzU0ODA1MTcyMjgyMDY0ODk2.X16GVg.BgXHcqaZAu6RhDaKIbiie5xw2p4");
@@ -377,13 +432,13 @@ scream18.login("NzM0MDc1MTQ5MjA4MjU2NjIz.X3Xxmw.6OnvHBKG77tMlj_cTtG83q3gZ_E");
 scream19.login("NzYxMjQ0MzUwNzg4OTI3NDk4.X3XyVg.5jjaeYmgTHZvcKOG0jmzSV_7U6U");
 scream20.login("NzYxMjUyNDgxMzg4MzgwMTYy.X3X5xA.F4XOG-unkr1SpLdQ4HtZAW8-PTs");
 scream21.login("NzU0ODQ1MjYyMzE2NDM3NjY2.X3X4_A.VxQsC59KkwRRZJ-Hb-cB4sdPfaA");
-scream22.login("");
-scream23.login("");
-scream24.login("");
-scream25.login("");
-scream26.login("");
-scream27.login("");
-scream28.login("");
+scream22.login("NzYxMjU2OTQyOTcwMDc3MjI1.X3X-vw.M1gNxv73EYxrAul4I4MkTe-sD4U");
+scream23.login("NzYxMjU5MzMwNDI2NjM0MjQz.X3YApw.q-pBBBnPT9t_ZjGVn-4fwohyqV0");
+scream24.login("NzM1MTY3Njg2MjE2MTIyMzcx.X3YBLw.VfcH-eSCf1_WUFINzHQCD0djw7E");
+scream25.login("NzYxMjYxMjgzMzY2MDEwOTMx.X3YCWQ.I-yZFp17uJig5uOFknvx_sMoavA");
+scream26.login("NzU5NDQ3NTc0NTYxOTQ3NjY5.X3YC3g.iH9f79bWi7LzKBR427a5wNqybuk");
+scream27.login("NzYxMjYyOTI1MjI2NDQyNzcy.X3YDug.uLDSbQUlIxvCk2eJDQ-8REjL3kM");
+scream28.login("NzYxMjY0NDU0NTAzMTA0NTE0.X3YE9g.2hXEWPu8EuX9uh09336_eh39P5E");
 scream29.login("");
 scream30.login("");
 scream31.login("");
