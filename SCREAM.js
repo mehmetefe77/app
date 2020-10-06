@@ -388,7 +388,7 @@ scream28.on("message", async msg => {
 });
 
 scream29.on("message", async msg => {
-  if (msg.content.toLowerCase() === "jilet") {
+  if (msg.content.toLowerCase() === "zad") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -399,7 +399,118 @@ scream29.on("message", async msg => {
 });
 
 scream30.on("message", async msg => {
-  if (msg.content.toLowerCase() === "jilet") {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream31.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream32.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream33.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream34.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream35.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream36.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream37.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream38.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+
+scream39.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
+scream40.on("message", async msg => {
+  if (msg.content.toLowerCase() === "zad") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -439,13 +550,15 @@ scream25.login("NzYxMjYxMjgzMzY2MDEwOTMx.X3YCWQ.I-yZFp17uJig5uOFknvx_sMoavA");
 scream26.login("NzU5NDQ3NTc0NTYxOTQ3NjY5.X3YC3g.iH9f79bWi7LzKBR427a5wNqybuk");
 scream27.login("NzYxMjYyOTI1MjI2NDQyNzcy.X3YDug.uLDSbQUlIxvCk2eJDQ-8REjL3kM");
 scream28.login("NzYxMjY0NDU0NTAzMTA0NTE0.X3YE9g.2hXEWPu8EuX9uh09336_eh39P5E");
-scream29.login("");
-scream30.login("");
-scream31.login("");
-scream32.login("");
-scream33.login("");
-scream34.login("");
-scream35.login("");
+
+//////////////////////////// ZAD TEAM ////////////////////////////////////
+scream29.login("NzQ5OTkxNzMyNTQ0MDEyMjg5.X3xe7g.YT-YTXWG7L99DhE5oADtSHZP3zM");
+scream30.login("NzQxNjg4NzgxMjMyNDA2NTc5.X3xfZQ.q4_8tF4H97vFD-Ip8e5xFJ61EWo");
+scream31.login("NzQwNjMzNDczMTgxNTQ4NjE1.X3xfkw.nyg57O3cROZTWTZDvOFnkM7Kiy8");
+scream32.login("NzYzMDAyNjA0Mjc1ODkyMjI5.X3xf0Q.BIg9iFroIhWkoBP4jDOBJwsYtEI");
+scream33.login("NzYyOTcyMzkwMjMzMDc5ODE4.X3xf7g.57-jGkgnDgxCXbEtGT68V8oMgj4");
+scream34.login("NzU0MjczNTk4MDA4NzIxNDYw.X3xgNg.expsrNeXEgs2VmiFlUC47KUrQxI");
+scream35.login("NzU0Mjc2OTg3NDAwNDg2OTEz.X3xg5A.T95aL8JncohvU2r3C2495IRMpCk");
 scream36.login("");
 scream37.login("");
 scream38.login("");
