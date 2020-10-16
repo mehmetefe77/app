@@ -519,6 +519,17 @@ scream40.on("message", async msg => {
     });
   }
 });
+
+scream41.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
 /////////////////////////////////////////////
 
 scream1.login("");
@@ -562,3 +573,13 @@ scream37.login("");
 scream38.login("");
 scream39.login("");
 scream40.login("");
+scream41.login("");
+scream42.login("");
+scream43.login("");
+scream44.login("");
+scream45.login("");
+scream46.login("");
+scream47.login("");
+scream48.login("");
+scream49.login("");
+scream50.login("");
