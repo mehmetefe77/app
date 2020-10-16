@@ -561,3 +561,4 @@ scream36.login("");
 scream37.login("");
 scream38.login("");
 scream39.login("");
+scream40.login("");
