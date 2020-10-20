@@ -97,7 +97,7 @@ const scream70 = new Discord.Client();
 
 
 /////////////////////////
-
+//
 scream.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -108,7 +108,7 @@ scream.on("message", async msg => {
     });
   }
 });
-
+//
 scream1.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -119,7 +119,7 @@ scream1.on("message", async msg => {
     });
   }
 });
-
+//
 scream2.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -130,7 +130,7 @@ scream2.on("message", async msg => {
     });
   }
 });
-
+//
 scream3.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -141,7 +141,7 @@ scream3.on("message", async msg => {
     });
   }
 });
-
+//
 scream4.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -152,7 +152,7 @@ scream4.on("message", async msg => {
     });
   }
 });
-
+//
 scream5.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 150 };
@@ -163,7 +163,7 @@ scream5.on("message", async msg => {
     });
   }
 });
-
+//
 scream6.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -174,7 +174,7 @@ scream6.on("message", async msg => {
     });
   }
 });
-
+//
 scream7.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -185,7 +185,7 @@ scream7.on("message", async msg => {
     });
   }
 });
-
+//
 scream8.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -196,7 +196,7 @@ scream8.on("message", async msg => {
     });
   }
 });
-
+//
 scream9.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -207,7 +207,7 @@ scream9.on("message", async msg => {
     });
   }
 });
-
+//
 scream10.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -218,7 +218,7 @@ scream10.on("message", async msg => {
     });
   }
 });
-
+//
 scream11.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -229,7 +229,7 @@ scream11.on("message", async msg => {
     });
   }
 });
-
+//
 scream12.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -240,7 +240,7 @@ scream12.on("message", async msg => {
     });
   }
 });
-
+//
 scream13.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -251,7 +251,7 @@ scream13.on("message", async msg => {
     });
   }
 });
-
+//
 scream14.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -262,7 +262,7 @@ scream14.on("message", async msg => {
     });
   }
 });
-
+//
 scream15.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -273,7 +273,7 @@ scream15.on("message", async msg => {
     });
   }
 });
-
+//
 scream16.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -284,7 +284,7 @@ scream16.on("message", async msg => {
     });
   }
 });
-
+//
 scream17.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -295,7 +295,7 @@ scream17.on("message", async msg => {
     });
   }
 });
-
+//
 scream18.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -306,7 +306,7 @@ scream18.on("message", async msg => {
     });
   }
 });
-
+//
 scream19.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -317,7 +317,7 @@ scream19.on("message", async msg => {
     });
   }
 });
-
+//
 scream20.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -328,7 +328,7 @@ scream20.on("message", async msg => {
     });
   }
 });
-
+//
 scream21.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -339,7 +339,7 @@ scream21.on("message", async msg => {
     });
   }
 });
-
+//
 scream22.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -350,7 +350,7 @@ scream22.on("message", async msg => {
     });
   }
 });
-
+//
 scream23.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -361,7 +361,7 @@ scream23.on("message", async msg => {
     });
   }
 });
-
+//
 scream24.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -372,7 +372,7 @@ scream24.on("message", async msg => {
     });
   }
 });
-
+//
 scream25.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -383,7 +383,7 @@ scream25.on("message", async msg => {
     });
   }
 });
-
+//
 scream26.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -394,7 +394,7 @@ scream26.on("message", async msg => {
     });
   }
 });
-
+//
 scream27.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -405,7 +405,7 @@ scream27.on("message", async msg => {
     });
   }
 });
-
+//
 scream28.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -416,7 +416,7 @@ scream28.on("message", async msg => {
     });
   }
 });
-
+//
 scream29.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -427,7 +427,7 @@ scream29.on("message", async msg => {
     });
   }
 });
-
+//
 scream30.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -438,7 +438,7 @@ scream30.on("message", async msg => {
     });
   }
 });
-
+//
 scream31.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -449,7 +449,7 @@ scream31.on("message", async msg => {
     });
   }
 });
-
+//
 scream32.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -460,7 +460,7 @@ scream32.on("message", async msg => {
     });
   }
 });
-
+//
 scream33.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -471,7 +471,7 @@ scream33.on("message", async msg => {
     });
   }
 });
-
+//
 scream34.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -482,7 +482,7 @@ scream34.on("message", async msg => {
     });
   }
 });
-
+//
 scream35.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -493,7 +493,7 @@ scream35.on("message", async msg => {
     });
   }
 });
-
+//
 scream36.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -504,7 +504,7 @@ scream36.on("message", async msg => {
     });
   }
 });
-
+//
 scream37.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -515,7 +515,7 @@ scream37.on("message", async msg => {
     });
   }
 });
-//////////////////////////////////////////////////////////////////////
+//
 scream38.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -537,7 +537,7 @@ scream39.on("message", async msg => {
     });
   }
 });
-///////////////////////////////////////////////////////////////////
+//
 scream40.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -548,7 +548,7 @@ scream40.on("message", async msg => {
     });
   }
 });
-///////////////////////////////////////////////////////////////
+//
 scream41.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -559,7 +559,7 @@ scream41.on("message", async msg => {
     });
   }
 });
-/////////////////////////////////////////////////////////////////
+//
 scream42.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -570,7 +570,7 @@ scream42.on("message", async msg => {
     });
   }
 });
-/////////////////////////////////////////////////////////////
+//
 scream43.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -581,10 +581,350 @@ scream43.on("message", async msg => {
     });
   }
 });
-
+//
+scream44.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream45.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream46.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream47.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream48.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream49.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream50.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream51.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream52.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream53.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream50.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream51.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream52.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream53.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream54.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream55.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream56.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream57.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream58.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream59.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream60.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream61.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream62.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream63.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream64.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream65.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream66.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream67.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream68.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream69.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+//
+scream70.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
 /////////////////////////////////////////////
 
-scream1.login("");
+scream1.login("NzY0MTk3Mjc5OTQyNTc0MDgy.X49HwQ._50QYKyW-QUtFSYiVxJjx7xsQvM");
 scream2.login("");
 scream3.login("");
 scream4.login("");
