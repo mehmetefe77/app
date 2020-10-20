@@ -64,6 +64,36 @@ const scream37 = new Discord.Client();
 const scream38 = new Discord.Client();
 const scream39 = new Discord.Client();
 const scream40 = new Discord.Client();
+const scream41 = new Discord.Client();
+const scream42 = new Discord.Client();
+const scream43 = new Discord.Client();
+const scream44 = new Discord.Client();
+const scream45 = new Discord.Client();
+const scream46 = new Discord.Client();
+const scream47 = new Discord.Client();
+const scream48 = new Discord.Client();
+const scream49 = new Discord.Client();
+const scream50 = new Discord.Client();
+const scream51 = new Discord.Client();
+const scream52 = new Discord.Client();
+const scream53 = new Discord.Client();
+const scream54 = new Discord.Client();
+const scream55 = new Discord.Client();
+const scream56 = new Discord.Client();
+const scream57 = new Discord.Client();
+const scream58 = new Discord.Client();
+const scream59 = new Discord.Client();
+const scream60 = new Discord.Client();
+const scream61 = new Discord.Client();
+const scream62 = new Discord.Client();
+const scream63 = new Discord.Client();
+const scream64 = new Discord.Client();
+const scream65 = new Discord.Client();
+const scream66 = new Discord.Client();
+const scream67 = new Discord.Client();
+const scream68 = new Discord.Client();
+const scream69 = new Discord.Client();
+const scream70 = new Discord.Client();
 
 
 /////////////////////////
@@ -485,7 +515,7 @@ scream37.on("message", async msg => {
     });
   }
 });
-
+//////////////////////////////////////////////////////////////////////
 scream38.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -496,8 +526,7 @@ scream38.on("message", async msg => {
     });
   }
 });
-
-
+//
 scream39.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -508,7 +537,7 @@ scream39.on("message", async msg => {
     });
   }
 });
-
+///////////////////////////////////////////////////////////////////
 scream40.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
@@ -519,10 +548,39 @@ scream40.on("message", async msg => {
     });
   }
 });
-
-
-
-
+///////////////////////////////////////////////////////////////
+scream41.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+/////////////////////////////////////////////////////////////////
+scream42.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+/////////////////////////////////////////////////////////////
+scream43.on("message", async msg => {
+  if (msg.content.toLowerCase() === "jilet") {
+    const streamOptions = { seek: 0, volume: 50 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", { filter: "audioonly" });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
 
 /////////////////////////////////////////////
 
@@ -567,3 +625,35 @@ scream37.login("");
 scream38.login("");
 scream39.login("");
 scream40.login("");
+scream41.login("");
+scream42.login("");
+scream43.login("");
+scream44.login("");
+scream45.login("");
+scream46.login("");
+scream47.login("");
+scream48.login("");
+scream49.login("");
+scream50.login("");
+scream51.login("");
+scream52.login("");
+scream53.login("");
+scream54.login("");
+scream55.login("");
+scream56.login("");
+scream57.login("");
+scream58.login("");
+scream59.login("");
+scream60.login("");
+scream61.login("");
+scream62.login("");
+scream63.login("");
+scream64.login("");
+scream65.login("");
+scream66.login("");
+scream67.login("");
+scream68.login("");
+scream69.login("");
+scream70.login("");
+
+
