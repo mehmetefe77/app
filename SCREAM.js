@@ -926,10 +926,10 @@ scream70.on("message", async msg => {
 /////////////////////////////////////////////
 scream.login("NzY5MjI0NDU5NzgxMTQ0NjE4.X58Spg.iIGIqi7lqBLRrBExdzK8oqX0tfs");
 scream1.login("NzcyNTQ5NjQ1NDE4MzY0OTk4.X58TNQ.DmIYGVTdCNpfYiXp9mepmSszNT4");
-scream2.login("");
-scream3.login("");
-scream4.login("");
-scream5.login("");
+scream2.login("NDUyMTA4MzYxODgyNjY0OTYx.X58Ucg.DLgUZLebiQa7UKGKR-MdY-Ki-JY");
+scream3.login("NzcyNTUxNDAxNjQwMjk2NDk3.X58VEw.o8vJXwM7KG4M89uEnNhHAe0Ipp4");
+scream4.login("NzcyNTUyMzY1NjAwOTMxODkw.X58Vqw.jH4cDAZ7zFq7fwBj7sAwUvmi5TQ");
+scream5.login("NzcyNTUzNzEwNDI5NDA1MjQ0.X58XCQ.yxjO5XlfLAhLTly6iDduksyxtiY");
 scream6.login("");
 scream7.login("");
 scream8.login("");
