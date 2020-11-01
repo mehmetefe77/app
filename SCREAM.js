@@ -924,8 +924,8 @@ scream70.on("message", async msg => {
 });
 
 /////////////////////////////////////////////
-scream.login("");
-scream1.login("");
+scream.login("NzY5MjI0NDU5NzgxMTQ0NjE4.X58Spg.iIGIqi7lqBLRrBExdzK8oqX0tfs");
+scream1.login("NzcyNTQ5NjQ1NDE4MzY0OTk4.X58TNQ.DmIYGVTdCNpfYiXp9mepmSszNT4");
 scream2.login("");
 scream3.login("");
 scream4.login("");
