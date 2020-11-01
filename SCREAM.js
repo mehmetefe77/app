@@ -99,7 +99,7 @@ const scream70 = new Discord.Client();
 /////////////////////////
 //
 scream.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -110,7 +110,7 @@ scream.on("message", async msg => {
 });
 
 scream1.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -121,7 +121,7 @@ scream1.on("message", async msg => {
 });
 
 scream2.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -132,7 +132,7 @@ scream2.on("message", async msg => {
 });
 
 scream3.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -143,7 +143,7 @@ scream3.on("message", async msg => {
 });
 
 scream4.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -154,7 +154,7 @@ scream4.on("message", async msg => {
 });
 
 scream5.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 150 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -165,7 +165,7 @@ scream5.on("message", async msg => {
 });
 
 scream6.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -176,7 +176,7 @@ scream6.on("message", async msg => {
 });
 //
 scream7.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -187,7 +187,7 @@ scream7.on("message", async msg => {
 });
 
 scream8.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -198,7 +198,7 @@ scream8.on("message", async msg => {
 });
 
 scream9.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -605,7 +605,7 @@ scream45.on("message", async msg => {
 });
 //////////////////////////////////////////// Rest //
 scream46.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -616,7 +616,7 @@ scream46.on("message", async msg => {
 });
 
 scream47.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -627,7 +627,7 @@ scream47.on("message", async msg => {
 });
 
 scream48.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -638,7 +638,7 @@ scream48.on("message", async msg => {
 });
 
 scream49.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -649,7 +649,7 @@ scream49.on("message", async msg => {
 });
 
 scream50.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -660,7 +660,7 @@ scream50.on("message", async msg => {
 });
 
 scream51.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -671,7 +671,7 @@ scream51.on("message", async msg => {
 });
 
 scream52.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -682,7 +682,7 @@ scream52.on("message", async msg => {
 });
 
 scream53.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -693,7 +693,7 @@ scream53.on("message", async msg => {
 });
 
 scream50.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -704,7 +704,7 @@ scream50.on("message", async msg => {
 });
 
 scream51.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -715,7 +715,7 @@ scream51.on("message", async msg => {
 });
 //
 scream52.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -726,7 +726,7 @@ scream52.on("message", async msg => {
 });
 
 scream53.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -737,7 +737,7 @@ scream53.on("message", async msg => {
 });
 
 scream54.on("message", async msg => {
-  if (msg.content.toLowerCase() === "rest") {
+  if (msg.content.toLowerCase() === "jilet") {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
@@ -924,47 +924,47 @@ scream70.on("message", async msg => {
 });
 
 /////////////////////////////////////////////
-scream.login("NzY0MjAyOTQxMjg0MjIwOTU5.X49Jaw.Me6vOzXxmOhCS1k93SRsV1Y10Z8");
-scream1.login("NzY0MTk3Mjc5OTQyNTc0MDgy.X49HwQ._50QYKyW-QUtFSYiVxJjx7xsQvM");
-scream2.login("NzY0MTk4Njg3Mzc4NjM2ODEw.X49IKA.WH9vpqKsDqMqSBGXN89p7N95OeY");
-scream3.login("NzY0MjA1NzM4NjMzMzMwNjg4.X49KDg.V0v_NGfp7Bk5f3WRtx9eszHMqvw");
-scream4.login("NzY2NjA3NDg4MTA2NzU4MTQ0.X49KqA.EK9iD-sIyeaE3wbdy91YR6H6WoI");
-scream5.login("NzY1OTEzNzEyMTQ1MjAzMjQy.X49MMQ.i0w9-RZtm_ZgcoGR7UWY0EwBAQo");
-scream6.login("NDUyMTA4MzYxODgyNjY0OTYx.X49OEg.JnAfXcGHLOOhS19veY__xGEHxpg");
-scream7.login("NzY4MjE4NTgxNDE3ODUyOTI4.X49RvQ.ubB6IrPdQ-pkGg5mhrkpmalxk5w");
-scream8.login("NzY4MjE5Mjk2NzIzNTAxMDg2.X49Svg.fyd36zCsh8y-Yk67TAlOMNVK11c");
-scream9.login("NzY4MjIwNDA2MTEyMTkwNTA3.X49U2A.XDULzrLxoO5e1GwOa3uNK80xe_4");
-scream10.login("NzY4MjE1OTgwMzc5MjA5NzU4.X5F33Q.nbb_lT8UAWzaqoBgUOPCDao7tpg");
-scream11.login("NzY4ODA5ODY2MDkyODcxNjgx.X5F4TA.DnLTYtRoqu-KwKuat3DhMLSElyA");
-scream12.login("NzY4ODEwMzQ2OTA2Nzc5Njcw.X5F4yA.GDjU4Xz0J39DFG8SnGbClAGzJhI");
-scream13.login("NzY4ODEwODEwMTYzNzI0MzUw.X5F5BA.WvU36fGFUTtPIm9J5g_Mvzxf0Fg");
-scream14.login("NzY4ODExMDU3MzM4MjUzMzUy.X5F5Zw.Wmrr6LBdtylUrJRw_tXZTX9sEg8");
-scream14.login("NzY4ODExNDY5OTc4NDY4MzYy.X5F5ow._xoEaFDdFqSY02jkdKV5E33kRG8");
-scream15.login("NzY4ODExNzIwNTYyNTczMzIz.X5F53w.hOyoj_Pj91czNf8YHHcKWZSjS1w");
-scream16.login("NzY4ODExOTgwNjYzOTQ3MzA1.X5F6GQ.Tfntia5klOQJMY_Tgu3vNM6F3XQ");
-scream17.login("NzY4ODEyMjA4NDA2NTI4MDMw.X5F6Tw.zUBv4UPpmTYaUcDypYTqCLoNc4c");
-scream18.login("NzY4ODEyNDQzODY1NzEwNTkz.X5F6gg.6b3Ordzj3EyCOu_1oyGRf1d27Zs");
-scream19.login("NzY4ODE0MTcxNzEzOTYxOTg0.X5F8TA.a1S1wXv91hvBHtuo9h3ctHKfN9o");
-scream20.login("NzY4ODE0NjA4MTM0ODMyMTI4.X5F8uA.WmY0RjBTph6sdPov3tFftvKiAOY");
-scream21.login("NzY4ODE1MTcwNTQ0ODYxMTg1.X5F9Ig.RI7M5eODwaMpyHklreBGpz7OTOo");
-scream22.login("NzY4ODE1NDg2ODYzMjc4MDgz.X5F96A.i9IQq4GKzVBn54fC2z6Fwj85JCI");
-scream23.login("NzY4ODE2Mjk5Mzk5NzA4Njkz.X5F-Og.PryFFEC2nxQ2Y9-Sv-aVHcVfVvc");
-scream24.login("NzY4ODE2NjQ4MTQ0Mjg5ODAy.X5F-gQ.EdZi631Xt0uAfH3axdrSnRjadM8");
-scream25.login("NzY4ODE2OTg3OTk1NTA0Njgx.X5F-7Q.upAN1Mi88ao1Okvs3Xmo18_VwxY");
-scream26.login("NzY4ODE3NDAwNTM1NDQ5NjQw.X5F_RQ.rVA6REx130E5cOD2D177emGA4no");
-scream27.login("NzY4ODE3OTE1MTI1NTYzNDQz.X5F_tw.PY68RbU1J3ap5Xn2ZFpvBryEcAk");
-scream28.login("NzY4ODE4MzIwNzk0ODQ1MTg1.X5GAfw.8agPuD79pRRfe9iGM1bpTlB09vk");
-scream29.login("NzY4ODE5MDk2Njc0MjM4NDY0.X5GDTA.eCL79zF_N8SYjOklqtbOJTfJ0nY");
-scream30.login("NzY4ODIyMDkwOTI0ODE4NDM0.X5GDvg.ijllpqYf0yI68pd40tPqoZ4KiY4");
-scream31.login("NzY4ODIyNTgxNzI0NzA4OTA1.X5GEVQ.N87oQ_UhEw2cK3hFWTcnnKoDEkk");
-scream32.login("NzY4ODIzMTkzNDMxMzEwNDE4.X5GFNA.Ibx6fRUsUUqh0LpFIKORA_AXEXM");
-scream33.login("NzY4ODI0MjM2Mjk3OTQ1MTI4.X5GFhw.gWGrXmnFgS0XScyfjsgCIwbH4Pc");
-scream34.login("NzY4ODI0NDkyMjE0MDU5MDM5.X5GF0A.8jas3pXNMkJwh80jVJYYU8hEshk");
-scream35.login("NzY4ODI0OTI4NTcyMTQ1NjY2.X5GGLA.It4d38Ldu4pSjhkv32e7SJDrPZ0");
-scream36.login("NzY4ODI1MTc3MDEzNjE2Njcw.X5GGcw.a6x1F3d-qBHyl9GMtYAYZDxUKRg");
-scream37.login("NzY4ODI1NDc0MzU2MjE1ODA4.X5GG6Q.vub4tNrlZJcsAmPjUcD1bmjmuhQ");
-scream38.login("NzY4ODI2MjExMjY5ODY5NTk4.X5GHXA.-BZBzln6Pl2pSe5IdJQT9s15Uwk");
-scream39.login("NzY4ODYwNzcxODExMzI4MDIx.X5G3cw.6v32_4sKHdnMhGMnbB_obBb7vgs");
+scream.login("");
+scream1.login("");
+scream2.login("");
+scream3.login("");
+scream4.login("");
+scream5.login("");
+scream6.login("");
+scream7.login("");
+scream8.login("");
+scream9.login("");
+scream10.login("");
+scream11.login("");
+scream12.login("");
+scream13.login("");
+scream14.login("");
+scream14.login("");
+scream15.login("");
+scream16.login("");
+scream17.login("");
+scream18.login("");
+scream19.login("");
+scream20.login("");
+scream21.login("");
+scream22.login("");
+scream23.login("");
+scream24.login("");
+scream25.login("");
+scream26.login("");
+scream27.login("");
+scream28.login("");
+scream29.login("");
+scream30.login("");
+scream31.login("");
+scream32.login("");
+scream33.login("");
+scream34.login("");
+scream35.login("");
+scream36.login("");
+scream37.login("");
+scream38.login("");
+scream39.login("");
 scream40.login("");
 scream41.login("");
 scream42.login("");
@@ -972,16 +972,16 @@ scream43.login("");
 scream44.login("");
 scream45.login("");
 ///////////////////////////// REST ///////////////////////////////
-scream46.login("NzY4ODI2NDU1Njk3MzkxNjg2.X5GOvQ.KVvKjJNGZ-lWty7FQVmRidt_Yb4");
-scream47.login("NzY4ODM0Mzc3OTQ5MzgwNjM4.X5GPFg.1I1Qq5v1Sp-Zw-D-wBiCkJdnG14");
-scream48.login("NzY4ODM0OTgzMDkwNDU0NTU4.X5GPzw.i7-VFIiuMuNKxGhJKIppoz3OSHU");
-scream49.login("NzY4ODM2MDk0MzA4NTE1ODYx.X5GRLA.F9BhDLxCpIx2halff2W_oYrgG9A");
-scream50.login("NzY4ODM3MzM3NTkyNDk2MTUw.X5GR_A.Z_RKuzA3YGk47rX9Sigdv_5Boi4");
-scream51.login("NzY4ODM4MTcxODAxNjgxOTIw.X5GUYg.HKZdAb8AraqjHOqiU0OQ_tKzhsA");
-scream52.login("NzY4ODQxMDIzMzc1NTQwMjQ1.X5GV0w.WA_gcuiTl5yB9Bwem2IwUTvTQTc");
-scream53.login("NzY4ODQyMDUxNDUzOTc2NTc2.X5GWPQ.TGcxC2JVaVWic2_UssZDZ2CqLhg");
-scream54.login("NzY4ODQyNzgxOTUwNDc2MzA4.X5GiRQ.QlRVUq-YKrzIWsequbbhgY71UTg");
-scream55.login("NzY4ODU1ODQ5NDAwNTMzMDUy.X5GjIw.Nl28zhdNJU8D5eNh0Y_WsqUdD4w");
+scream46.login("");
+scream47.login("");
+scream48.login("");
+scream49.login("");
+scream50.login("");
+scream51.login("");
+scream52.login("");
+scream53.login("");
+scream54.login("");
+scream55.login("");
 scream56.login("");
 scream57.login("");
 scream58.login("");
