@@ -103,7 +103,7 @@ scream.on("message", async msg => {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
-      const stream = ytdl("https://www.youtube.com/watch?v=idqdUopJazc", { filter: "audioonly" });
+      const stream = ytdl("", { filter: "audioonly" });
       const dispatcher = connection.playStream(stream, streamOptions);
     });
   }
@@ -122,10 +122,10 @@ scream1.on("message", async msg => {
 
 scream2.on("message", async msg => {
   if (msg.content.toLowerCase() === "jilet") {
-    const streamOptions = { seek: 0, volume: 50 };
+    const streamOptions = { seek: 0, volume: 100 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
-      const stream = ytdl("", { filter: "audioonly" });
+      const stream = ytdl("https://www.youtube.com/watch?v=B7utOTVKb0E", { filter: "audioonly" });
       const dispatcher = connection.playStream(stream, streamOptions);
     });
   }
@@ -929,7 +929,7 @@ scream1.login("Nzc1MDg3MzEzNDEwNzE5ODE1.X6hQ5A.Hg3pnpavumMCYD5_dGUJNVLtoMw");
 scream2.login("Nzc1MDkwNTAzMDkxMzU1NjYw.X6hRuw.p0mDBIr0xphTVE7EBbECKqyqEsQ");
 scream3.login("Nzc1MDkxNTE4MjY3OTgxODI1.X6hScQ.60dCf5cdy6gEWDYERR4w311gDGI");
 scream4.login("Nzc1MDkyMTgxNDYzMzM0OTUz.X6hTHw.6aBMr2Ya2Zr3sKBKu5eVvg4dYNs");
-scream5.login("");
+scream5.login("Nzc1MDkxNjQ3NDkwMDMxNjQ3.X6hWHA.Hye2qfWqgxaaruPVrgJs0pPE6wM");
 scream6.login("");
 scream7.login("");
 scream8.login("");
