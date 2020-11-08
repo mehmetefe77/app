@@ -103,7 +103,7 @@ scream.on("message", async msg => {
     const streamOptions = { seek: 0, volume: 50 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
-      const stream = ytdl("", { filter: "audioonly" });
+      const stream = ytdl("https://www.youtube.com/watch?v=idqdUopJazc", { filter: "audioonly" });
       const dispatcher = connection.playStream(stream, streamOptions);
     });
   }
@@ -928,7 +928,7 @@ scream.login("Nzc1MDg4NDE4NTE3NjgwMTcw.X6hQJA.Sm9bFl5AsyEHFz5VU_zqJd5-3So");
 scream1.login("Nzc1MDg3MzEzNDEwNzE5ODE1.X6hQ5A.Hg3pnpavumMCYD5_dGUJNVLtoMw");
 scream2.login("Nzc1MDkwNTAzMDkxMzU1NjYw.X6hRuw.p0mDBIr0xphTVE7EBbECKqyqEsQ");
 scream3.login("Nzc1MDkxNTE4MjY3OTgxODI1.X6hScQ.60dCf5cdy6gEWDYERR4w311gDGI");
-scream4.login("");
+scream4.login("Nzc1MDkyMTgxNDYzMzM0OTUz.X6hTHw.6aBMr2Ya2Zr3sKBKu5eVvg4dYNs");
 scream5.login("");
 scream6.login("");
 scream7.login("");
