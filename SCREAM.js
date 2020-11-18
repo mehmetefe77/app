@@ -930,8 +930,9 @@ scream2.login("Nzc1MDkwNTAzMDkxMzU1NjYw.X6hRuw.p0mDBIr0xphTVE7EBbECKqyqEsQ");
 scream3.login("Nzc1MDkxNTE4MjY3OTgxODI1.X6hScQ.60dCf5cdy6gEWDYERR4w311gDGI");
 scream4.login("Nzc1MDkyMTgxNDYzMzM0OTUz.X6hTHw.6aBMr2Ya2Zr3sKBKu5eVvg4dYNs");
 scream5.login("Nzc1MDkxNjQ3NDkwMDMxNjQ3.X6hWHA.Hye2qfWqgxaaruPVrgJs0pPE6wM");
-scream6.login("");
-scream7.login("");
+///////////////////// MECH TOKENLERİ /////////////////////
+scream6.login("Nzc4NjM5Mzc1NTYyMzA5NjUy.X7WjJw.I6oHCWammqYOqVMWb739cnnwP-Q");
+scream7.login("Nzc4NzUyNTAwMzY2ODM1NzUz.X7Wkqg.lS7_fv3g40oOQ2ZjrNNaH3EaJ5E");
 scream8.login("");
 scream9.login("");
 scream10.login("");
