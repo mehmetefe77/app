@@ -924,12 +924,12 @@ scream70.on("message", async msg => {
 });
 
 /////////////////////////////////////////////
-scream.login("Nzc1MDg4NDE4NTE3NjgwMTcw.X6hQJA.Sm9bFl5AsyEHFz5VU_zqJd5-3So");
-scream1.login("Nzc1MDg3MzEzNDEwNzE5ODE1.X6hQ5A.Hg3pnpavumMCYD5_dGUJNVLtoMw");
-scream2.login("Nzc1MDkwNTAzMDkxMzU1NjYw.X6hRuw.p0mDBIr0xphTVE7EBbECKqyqEsQ");
-scream3.login("Nzc1MDkxNTE4MjY3OTgxODI1.X6hScQ.60dCf5cdy6gEWDYERR4w311gDGI");
-scream4.login("Nzc1MDkyMTgxNDYzMzM0OTUz.X6hTHw.6aBMr2Ya2Zr3sKBKu5eVvg4dYNs");
-scream5.login("Nzc1MDkxNjQ3NDkwMDMxNjQ3.X6hWHA.Hye2qfWqgxaaruPVrgJs0pPE6wM");
+scream.login("Nzc1MDk1ODU1Mjc5MjQzMjc0.X7U5rA.83QYD01r4ZNi6JQ0Me9jfqQfUsI");
+scream1.login("");
+scream2.login("");
+scream3.login("");
+scream4.login("");
+scream5.login("");
 scream6.login("");
 scream7.login("");
 scream8.login("");
